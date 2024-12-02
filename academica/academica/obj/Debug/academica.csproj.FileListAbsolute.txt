@@ -1,0 +1,113 @@
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\bin\Debug\db_academica.mdf
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\bin\Debug\db_academica_log.ldf
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\bin\Debug\academica.exe.config
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\bin\Debug\academica.exe
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\bin\Debug\academica.pdb
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.Form1.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.exe
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.pdb
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\db_academica.mdf
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\db_academica_log.ldf
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\academica.exe.config
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\academica.exe
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\academica.pdb
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.Form1.resources
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.exe
+C:\Users\Luis Hernandez\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.pdb
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.Form1.resources
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.exe
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.pdb
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\db_academica.mdf
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\db_academica_log.ldf
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\academica.exe.config
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\academica.exe
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\academica.pdb
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.principal.resources
+C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.materias.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.materias.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.principal.resources
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\db_academica.mdf
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\db_academica_log.ldf
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.exe.config
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.exe
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.pdb
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Docente.resources
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Form1.resources
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.materias.resources
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.principal.resources
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.exe
+C:\Users\David\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.pdb
+D:\Repositorio lic 2 El regreso\academica\academica\bin\Debug\db_academica.mdf
+D:\Repositorio lic 2 El regreso\academica\academica\bin\Debug\db_academica_log.ldf
+D:\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.exe.config
+D:\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.exe
+D:\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.pdb
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Docente.resources
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Form1.resources
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.materias.resources
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.principal.resources
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Properties.Resources.resources
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.exe
+D:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.pdb
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\db_academica.mdf
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\db_academica_log.ldf
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.exe.config
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.exe
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.pdb
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Docente.resources
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Form1.resources
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.materias.resources
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.principal.resources
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.exe
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.pdb
+C:\Users\MINEDUCYT\Downloads\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.FrmInicio.resources
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Docente.resources
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Form1.resources
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.FrmInicio.resources
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.materias.resources
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.principal.resources
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Properties.Resources.resources
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.exe
+E:\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.pdb
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Docente.resources
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.FrmInicio.resources
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.materias.resources
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.principal.resources
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.exe
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\obj\Debug\academica.pdb
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\bin\Debug\db_academica.mdf
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\bin\Debug\db_academica_log.ldf
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.exe.config
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.exe
+C:\Users\MINEDUCYT\Desktop\Repositorio lic 2 El regreso\academica\academica\bin\Debug\academica.pdb
